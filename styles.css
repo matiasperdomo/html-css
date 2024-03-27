@@ -107,7 +107,7 @@ ul{
 
 
 h1{
-    font-size: 60px;
+    font-size: 50px;
     margin: 100px 0px 0px 0px;
 }
 
@@ -129,9 +129,9 @@ h1{
 }
 
 .portada p{
-    margin: 25px 100px 25px 100px;
+    margin: 25px 20px 25px 20px;
     font-weight:300;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
 }
 
